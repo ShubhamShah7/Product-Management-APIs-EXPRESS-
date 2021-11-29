@@ -1,0 +1,10 @@
+[
+    {
+        "productId" : "1",
+        "title" : "Vivobook", 
+        "price" : "35000",
+        "category"  : "Laptop",
+        "companyId" : "1", 
+        "sellerId" : "1"
+    }
+]
